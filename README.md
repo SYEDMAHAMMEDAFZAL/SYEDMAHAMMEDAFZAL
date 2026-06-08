@@ -147,8 +147,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SYEDMAHAMMEDAFZAL&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00b4d8&text_color=ffffff&rank_icon=github" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYEDMAHAMMEDAFZAL&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff" width="40%"/>
 
 <br/><br/>
 
@@ -181,9 +179,10 @@
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│  root@AFZAL:~$ echo "Not Just a Student. A Threat Analyst in Training."  │
-│  > Not Just a Student. A Threat Analyst in Training.                     │
-│  root@AFZAL:~$ █                                                          │
+│  root@AFZAL:~$ echo "Not Just a Student. A Threat Analyst    │
+│                       in Training."                          │
+│  > Not Just a Student. A Threat Analyst in Training.         │            
+│  root@AFZAL:~$ █                                             │             
 └──────────────────────────────────────────────────────────────┘
 ```
 
