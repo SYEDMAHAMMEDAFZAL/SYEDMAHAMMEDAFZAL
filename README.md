@@ -1,10 +1,15 @@
 <div align="center">
 
 <!-- ANIMATED BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00ff88,100:00b4d8&height=200&section=header&text=SYED%20MAHAMMED%20AFZAL&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=⚡%20Cybersecurity%20Engineer%20|%20Researcher%20|%20IEEE%20Chairman&descAlignY=68&descSize=16&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00ff88,100:00b4d8&height=200&section=header&text=SYED%20MAHAMMED%20AFZAL&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=⚡%20Cybersecurity%20Engineer%20|%20Researcher%20|%20IEEE%20SB%20Chairman&descAlignY=68&descSize=16&animation=twinkling" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00FF88&center=true&vCenter=true&random=false&width=700&lines=root%40WARRIOR%3A~%24+initializing+threat+detection...;%5B%2B%5D+GAT+Cyber+Threat+Intelligence+Framework+loaded;%5B%2B%5D+IEEE+SSIT+Chapter+Chairman+%7C+VelTech;%5B%2B%5D+Published+Researcher+%7C+3+Papers;%5B%2B%5D+FortiGate+%7C+SOC+%7C+Pentesting+%7C+ML+Security;%5B*%5D+Status%3A+Online+%26+Building...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00FF88&center=true&vCenter=true&random=false&width=700&lines=root%40WARRIOR%3A~%24+initializing+threat+detection...;%5B%2B%5D+GAT+Cyber+Threat+Intelligence+Framework+loaded;%5B%2B%5D+IEEE+Student+Branch+Chairman+%7C+VelTech;%5B%2B%5D+Published+Researcher+%7C+3+Papers;%5B%2B%5D+FortiGate+%7C+SOC+%7C+Pentesting+%7C+ML+Security;%5B*%5D+Status%3A+Online+%26+Building...)](https://git.io/typing-svg)
+
+<!-- PROFILE PHOTO — replace the URL below with your actual photo URL after uploading to GitHub -->
+<br/>
+<img src="<img width="520" height="679" alt="intership photo" src="https://github.com/user-attachments/assets/a031318f-dda4-4acf-b63b-97ee41d72e41" />
+" width="150" style="border-radius: 50%; border: 3px solid #00ff88;" />
 
 </div>
 
@@ -30,8 +35,6 @@
 ║  Shell    : zsh / bash                                           ║
 ║  Editor   : VS Code / Vim                                        ║
 ║  Location : Chennai, India                                       ║
-║  Website  : linkedin.com/in/syed-mahammed-afzal                  ║
-║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -40,12 +43,11 @@
 ## ⚡ ABOUT ME
 
 - 🎓 **B.Tech ECE (Cybersecurity)** — Vel Tech R&D Institute, Chennai | CGPA: 8.0
-- 🏛️ **IEEE VelTech SSIT Chapter Chairman** — Leading student tech community
+- 🏛️ **IEEE Student Branch Chairman** — Vel Tech University
 - 📄 **3 Published Research Papers** — incl. GAT-based Cyber Threat Intelligence Framework
 - 🏆 **2nd Place** — IEEE CAS Design Contest 2025 & Ideathon 2025
 - 🔬 **Junior System Analyst** — USIM Malaysia (Virtual, Apr–Sep 2026)
 - 🔥 **Current Focus** — WARRIOR Project: Local AI assistant with multi-agent cybersecurity architecture
-- 🎯 **Target** — Networking/Cybersecurity role @ ₹22 LPA by end of 2026
 
 ---
 
@@ -87,19 +89,6 @@
 
 ---
 
-## 🚀 FEATURED PROJECTS
-
-| Project | Description | Stack |
-|---|---|---|
-| 🤖 **WARRIOR AI** | Local multi-agent AI with Cybersecurity Agent, MITRE ATT&CK mapping, voice I/O | LangGraph, Ollama, ChromaDB, FastAPI |
-| 🧠 **GAT-CTI Framework** | Graph Attention Network for Cyber Threat Intelligence (Published Research) | Python, PyG, NLP |
-| 📡 **AI-NIDS** | ML-based Network Intrusion Detection using Random Forest | Python, Scikit-learn, Kali |
-| 🖥️ **SIEM Dashboard** | Real-time threat detection dashboard | ELK Stack, Python |
-| 🔍 **AVAT** | Automated Vulnerability Assessment Tool | Python, Nmap, Metasploit |
-| 🚨 **SACTAD** | Room Intrusion Detection with YOLOv8 + WhatsApp/Telegram alerts | Raspberry Pi 4, YOLOv8 |
-
----
-
 ## 📊 GITHUB STATS
 
 <div align="center">
@@ -120,7 +109,6 @@
 - 🥈 **2nd Place** — Ideathon 2025
 - 📜 **Deloitte Cybersecurity Virtual Experience** — Forage
 - 📜 **Mastercard Cybersecurity Virtual Experience** — Forage
-- 🔴 **TryHackMe Premium** — Jr. Pentester Path (In Progress)
 - 📄 **3x Published Researcher** — Network Security & AI Threat Detection
 
 ---
@@ -131,8 +119,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-mahammed-afzal)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SYEDMAHAMMEDAFZAL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedmahammedafzal@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
 
 </div>
 
