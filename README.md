@@ -13,22 +13,21 @@
 ```
 ┌──────────────────────────────────────────────────────────────────┐
 │                                                                  │
-│   ███████╗██╗   ██╗███████╗██████╗                               │
-│   ██╔════╝╚██╗ ██╔╝██╔════╝██╔══██╗                              │
-│   ███████╗ ╚████╔╝ █████╗  ██║  ██║                              │
-│   ╚════██║  ╚██╔╝  ██╔══╝  ██║  ██║                              │
-│   ███████║   ██║   ███████╗██████╔╝                              │
-│   ╚══════╝   ╚═╝   ╚══════╝╚═════╝                               │
+│   ███████╗██╗   ██╗███████╗██████╗                              │
+│   ██╔════╝╚██╗ ██╔╝██╔════╝██╔══██╗                             │
+│   ███████╗ ╚████╔╝ █████╗  ██║  ██║                             │
+│   ╚════██║  ╚██╔╝  ██╔══╝  ██║  ██║                             │
+│   ███████║   ██║   ███████╗██████╔╝                             │
+│   ╚══════╝   ╚═╝   ╚══════╝╚═════╝                              │
 │                                                                  │
 │  Handle      : SYEDMAHAMMEDAFZAL                                 │
-│  Role        : Cybersecurity Engineer & Researcher
-│  Clearance   : RESEARCHER // ENGINEER // IEEE STUDENT BRANCH
-                                           CHAIRMAN                │
-│  Mission     : Threat Intelligence · Defense · AI Security       │
-│  Affiliation : Vel Tech University · IEEE · USIM Malaysia        │
-│  Shell       : zsh / bash                                        │
-│  Editor      : VS Code / Vim                                     │
-│  Status      : ● ACTIVE — Researching · Building · Securing      │
+│  Role        : Cybersecurity Engineer & Researcher              │
+│  Clearance   : RESEARCHER // ENGINEER                           │
+│  Mission     : Threat Intelligence · Defense · AI Security     │
+│  Affiliation : Vel Tech University · IEEE · USIM Malaysia       │
+│  Shell       : zsh / bash                                       │
+│  Editor      : VS Code / Vim                                    │
+│  Status      : ● ACTIVE — Researching · Building · Securing    │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
