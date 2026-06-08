@@ -21,7 +21,8 @@
 │   ╚══════╝   ╚═╝   ╚══════╝╚═════╝                               │
 │                                                                  │
 │  Handle      : SYEDMAHAMMEDAFZAL                                 │
-│  Role        : Cybersecurity Engineer & Researcher               │
+│  Role        : Cybersecurity Engineer & Researcher
+           │
 │  Clearance   : RESEARCHER // ENGINEER // IEEE STUDENT BRANCH
                                            CHAIRMAN                │
 │  Mission     : Threat Intelligence · Defense · AI Security       │
