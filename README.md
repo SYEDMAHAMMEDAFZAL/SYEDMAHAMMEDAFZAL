@@ -175,17 +175,3 @@
 
 ---
 
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────┐
-│  root@AFZAL:~$ echo "Not Just a Student. A Threat Analyst    │
-│                       in Training."                          │
-│  > Not Just a Student. A Threat Analyst in Training.         │            
-│  root@AFZAL:~$ █                                             │             
-└──────────────────────────────────────────────────────────────┘
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:001a0e,100:00ff88&height=100&section=footer" width="100%"/>
-
-</div>
