@@ -8,73 +8,32 @@
 
 ---
 
-<svg width="800" height="340" viewBox="0 0 800 340" xmlns="http://www.w3.org/2000/svg">
+<div align="center">
 
-  <!-- Background -->
-  <rect width="800" height="340" fill="#0d1117"/>
+```
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│   ███████╗██╗   ██╗███████╗██████╗                               │
+│   ██╔════╝╚██╗ ██╔╝██╔════╝██╔══██╗                              │
+│   ███████╗ ╚████╔╝ █████╗  ██║  ██║                              │
+│   ╚════██║  ╚██╔╝  ██╔══╝  ██║  ██║                              │
+│   ███████║   ██║   ███████╗██████╔╝                              │
+│   ╚══════╝   ╚═╝   ╚══════╝╚═════╝                               │
+│                                                                  │
+│  Handle      : SYEDMAHAMMEDAFZAL                                 │
+│  Role        : Cybersecurity Engineer & Researcher               │
+│  Clearance   : RESEARCHER // ENGINEER // IEEE STUDENT BRANCH
+                                           CHAIRMAN                │
+│  Mission     : Threat Intelligence · Defense · AI Security       │
+│  Affiliation : Vel Tech University · IEEE · USIM Malaysia        │
+│  Shell       : zsh / bash                                        │
+│  Editor      : VS Code / Vim                                     │
+│  Status      : ● ACTIVE — Researching · Building · Securing      │
+└──────────────────────────────────────────────────────────────────┘
+```
 
-  <!-- Outer border -->
-  <rect x="2" y="2" width="796" height="336" fill="none" stroke="#30363d" stroke-width="1" rx="4"/>
+</div>
 
-  <!-- SYED ASCII -->
-  <!-- S -->
-  <text x="38"  y="52"  font-family="monospace" font-size="12" fill="#e6edf3">███████╗</text>
-  <text x="38"  y="67"  font-family="monospace" font-size="12" fill="#e6edf3">██╔════╝</text>
-  <text x="38"  y="82"  font-family="monospace" font-size="12" fill="#e6edf3">███████╗</text>
-  <text x="38"  y="97"  font-family="monospace" font-size="12" fill="#e6edf3">╚════██║</text>
-  <text x="38"  y="112" font-family="monospace" font-size="12" fill="#e6edf3">███████║</text>
-  <text x="38"  y="127" font-family="monospace" font-size="12" fill="#e6edf3">╚══════╝</text>
-
-  <!-- Y -->
-  <text x="140" y="52"  font-family="monospace" font-size="12" fill="#e6edf3">██╗   ██╗</text>
-  <text x="140" y="67"  font-family="monospace" font-size="12" fill="#e6edf3">╚██╗ ██╔╝</text>
-  <text x="140" y="82"  font-family="monospace" font-size="12" fill="#e6edf3"> ╚████╔╝ </text>
-  <text x="140" y="97"  font-family="monospace" font-size="12" fill="#e6edf3">  ╚██╔╝  </text>
-  <text x="140" y="112" font-family="monospace" font-size="12" fill="#e6edf3">   ██║   </text>
-  <text x="140" y="127" font-family="monospace" font-size="12" fill="#e6edf3">   ╚═╝   </text>
-
-  <!-- E -->
-  <text x="252" y="52"  font-family="monospace" font-size="12" fill="#e6edf3">███████╗</text>
-  <text x="252" y="67"  font-family="monospace" font-size="12" fill="#e6edf3">██╔════╝</text>
-  <text x="252" y="82"  font-family="monospace" font-size="12" fill="#e6edf3">█████╗  </text>
-  <text x="252" y="97"  font-family="monospace" font-size="12" fill="#e6edf3">██╔══╝  </text>
-  <text x="252" y="112" font-family="monospace" font-size="12" fill="#e6edf3">███████╗</text>
-  <text x="252" y="127" font-family="monospace" font-size="12" fill="#e6edf3">╚══════╝</text>
-
-  <!-- D -->
-  <text x="354" y="52"  font-family="monospace" font-size="12" fill="#e6edf3">██████╗ </text>
-  <text x="354" y="67"  font-family="monospace" font-size="12" fill="#e6edf3">██╔══██╗</text>
-  <text x="354" y="82"  font-family="monospace" font-size="12" fill="#e6edf3">██║  ██║</text>
-  <text x="354" y="97"  font-family="monospace" font-size="12" fill="#e6edf3">██║  ██║</text>
-  <text x="354" y="112" font-family="monospace" font-size="12" fill="#e6edf3">██████╔╝</text>
-  <text x="354" y="127" font-family="monospace" font-size="12" fill="#e6edf3">╚═════╝ </text>
-
-  <!-- Divider -->
-  <line x1="30" y1="145" x2="770" y2="145" stroke="#30363d" stroke-width="1"/>
-
-  <!-- Info rows -->
-  <text x="40"  y="168" font-family="monospace" font-size="13" fill="#8b949e">Handle</text>
-  <text x="155" y="168" font-family="monospace" font-size="13" fill="#e6edf3">:  SYEDMAHAMMEDAFZAL</text>
-
-  <text x="40"  y="191" font-family="monospace" font-size="13" fill="#8b949e">Role</text>
-  <text x="155" y="191" font-family="monospace" font-size="13" fill="#e6edf3">:  Cybersecurity Engineer &amp; Researcher</text>
-
-  <text x="40"  y="214" font-family="monospace" font-size="13" fill="#8b949e">IEEE</text>
-  <text x="155" y="214" font-family="monospace" font-size="13" fill="#e6edf3">:  Student Branch Chairman — Vel Tech University</text>
-
-  <text x="40"  y="237" font-family="monospace" font-size="13" fill="#8b949e">Mission</text>
-  <text x="155" y="237" font-family="monospace" font-size="13" fill="#e6edf3">:  Threat Intelligence · Defense · AI Security</text>
-
-  <text x="40"  y="260" font-family="monospace" font-size="13" fill="#8b949e">Shell</text>
-  <text x="155" y="260" font-family="monospace" font-size="13" fill="#e6edf3">:  zsh / bash</text>
-
-  <text x="40"  y="283" font-family="monospace" font-size="13" fill="#8b949e">Editor</text>
-  <text x="155" y="283" font-family="monospace" font-size="13" fill="#e6edf3">:  VS Code / Vim</text>
-
-  <text x="40"  y="306" font-family="monospace" font-size="13" fill="#8b949e">Status</text>
-  <text x="155" y="306" font-family="monospace" font-size="13" fill="#e6edf3">:  ● ACTIVE — Researching · Building · Securing</text>
-
-</svg>
 ---
 
 ## ◈ PROFILE SNAPSHOT
@@ -223,10 +182,9 @@
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│  root@AFZAL:~$ echo "Not Just a Student. A Threat Analyst    │
-│    in Training."                                             │
-│  > Not Just a Student. A Threat Analyst in Training.         │
-│  root@AFZAL:~$ █                                             │             
+│  root@AFZAL:~$ echo "Not Just a Student. A Threat Analyst in Training."  │
+│  > Not Just a Student. A Threat Analyst in Training.                     │
+│  root@AFZAL:~$ █                                                          │
 └──────────────────────────────────────────────────────────────┘
 ```
 
