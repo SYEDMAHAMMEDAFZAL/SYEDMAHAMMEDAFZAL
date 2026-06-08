@@ -87,12 +87,6 @@
 
 ## 📊 GITHUB STATS
 
-<div align="center">
-
-
-
-
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYEDMAHAMMEDAFZAL&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff" width="40%" />
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SYEDMAHAMMEDAFZAL&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff88&fire=00b4d8&currStreakLabel=00ff88)
