@@ -8,7 +8,6 @@
 
 <!-- PROFILE PHOTO — replace the URL below with your actual photo URL after uploading to GitHub -->
 <br/>
-<img src="YOUR_PHOTO_URL_HERE" width="200" style="border-radius:50%"/>
 </div>
 
 ---
