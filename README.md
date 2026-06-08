@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,40:001a0e,70:00ff88,100:00b4d8&height=220&section=header&text=SYED%20MAHAMMED%20AFZAL&fontSize=38&fontColor=ffffff&fontAlignY=50&desc=Cybersecurity%20Engineer%20%7C%20AI%20Security%20Researcher%20%7C%20IEEE%20SB%20Chairman&descAlignY=70&descSize=14&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=800&color=00FF88&center=true&vCenter=true&random=false&width=750&lines=root%40WARRIOR%3A~%24+sudo+initialize+--mode%3Dthreat-hunt;%5B%E2%9C%93%5D+GAT+Cyber+Threat+Intelligence+Framework+%E2%80%94+LOADED;%5B%E2%9C%93%5D+IEEE+Student+Branch+Chairman+%7C+Vel+Tech+University;%5B%E2%9C%93%5D+3x+Published+Researcher+%7C+Network+Security+%26+AI;%5B%E2%9C%93%5D+FortiGate+%7C+SOC+Operations+%7C+Penetration+Testing;%5B%E2%9C%93%5D+WARRIOR+Project%3A+Multi-Agent+AI+Cybersecurity+System;%5B*%5D+Status%3A+Online+%E2%80%94+Securing+the+Digital+Frontier)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=800&color=00FF88&center=true&vCenter=true&random=false&width=750&lines=root%40WARRIOR%3A~%24+sudo+initialize+--mode%3Dthreat-hunt;%5B%E2%9C%93%5D+GAT+Cyber+Threat+Intelligence+Framework+%E2%80%94+LOADED;%5B%E2%9C%93%5D+IEEE+Student+Branch+Chairman+%7C+Vel+Tech+University;%5B%E2%9C%93%5D+3x+Published+Researcher+%7C+Network+Security+%26+AI;%5B%E2%9C%93%5D+FortiGate+%7C+SOC+Operations+%7C+Penetration+Testing;%5B*%5D+Status%3A+Online+%E2%80%94+Securing+the+Digital+Frontier)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,7 +26,7 @@
 │  │  MISSION     : Threat Intelligence · Defense · AI Security      │  │
 │  │  AFFILIATION : Vel Tech University · IEEE · USIM Malaysia        │  │
 │  │  LOCATION    : Chennai, India  [28.6139°N, 77.2090°E]           │  │
-│  │  STATUS      : ● ACTIVE — Hunting Threats & Building WARRIOR    │  │
+│  │  STATUS      : ● ACTIVE — Researching · Building · Securing  │  │
 │  └──────────────────────────────────────────────────────────────────┘  │
 └─────────────────────────────────────────────────────────────────────────┘
 ```
@@ -62,8 +62,8 @@
 - 📜 **Mastercard** Cybersecurity Virtual Experience — Forage
 - 🔴 **TryHackMe Premium** — Jr. Pentester Path
 
-### 🔥 Current Mission
-> **WARRIOR Project** — A local multi-agent AI system with dedicated cybersecurity architecture. Built from scratch. No cloud dependency.
+### 🔥 Current Focus
+> Building production-grade AI-powered security tools and actively contributing to open-source cybersecurity research.
 
 </td>
 </tr>
@@ -146,9 +146,9 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  root@WARRIOR:~$ echo "Stay Ethical. Hunt Hard. Build More." │
-│  > Stay Ethical. Hunt Hard. Build More.                     │
-│  root@WARRIOR:~$ █                                          │
+│  root@AFZAL:~$ echo "Stay Ethical. Hunt Hard. Build More."  │
+│                                                             │
+│                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
