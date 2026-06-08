@@ -8,8 +8,7 @@
 
 <!-- PROFILE PHOTO — replace the URL below with your actual photo URL after uploading to GitHub -->
 <br/>
-<img src="https://cdn.phototourl.com/free/2026-06-08-36567732-3691-4eb3-997c-9fc239b5ac21.jpg" width="150" style="border-radius: 50%; border: 3px solid #00ff88;" />
-
+<img src="YOUR_PHOTO_URL_HERE" width="200" style="border-radius:50%"/>
 </div>
 
 ---
